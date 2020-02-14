@@ -123,7 +123,7 @@ a {
 #content h2 {
     margin-top: 35px;
     color: #f99320;
-    text-transform: uppercase
+    /* text-transform: uppercase */
 }
 
 #software {
